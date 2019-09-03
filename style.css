@@ -1,10 +1,23 @@
 body {
-    background-color: blanchedalmond;
+    background-color: cadetblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 p {
     font-size: 20px;
     font-weight: bold;
+    letter-spacing: 1px;
     
+}
+
+#column-color {
+    background-color: white;
+    border: solid;
+    border-color: black;
+
+
+}
+
+#container {
+    margin-top: 20px;
 }
