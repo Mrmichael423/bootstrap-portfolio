@@ -23,6 +23,10 @@ p {
     background-color: whitesmoke
 }
 
-h1 {
+h2 {
     background-color: cadetblue
+}
+
+.img-fluid {
+    margin-top: 20px
 }
